@@ -2,6 +2,8 @@ li {
   display: inline;
   padding: 5px;
   border-width: 0px;
+  height: 100%;
+  vertical-align: central;
 }
 
 ul {
@@ -11,4 +13,6 @@ ul {
   width: 100%;
   position: sticky;
   overflow: hidden;
+  height: 50px;
+  vertical-align: central;
 }

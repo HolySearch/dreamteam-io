@@ -5,6 +5,6 @@
     "\\src\\app",
     "\\src\\app\\menu-bar"
   ],
-  "SelectedNode": "\\src\\app\\about-us",
+  "SelectedNode": "\\src\\app\\menu-bar\\menu-bar.component.html",
   "PreviewInSolutionExplorer": false
 }
