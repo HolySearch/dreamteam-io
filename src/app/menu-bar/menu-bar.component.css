@@ -1,0 +1,14 @@
+li {
+  display: inline;
+  padding: 5px;
+  border-width: 0px;
+}
+
+ul {
+  background-color: darkgrey;
+  padding: 0px;
+  margin: 0px;
+  width: 100%;
+  position: sticky;
+  overflow: hidden;
+}
