@@ -23,6 +23,14 @@ h2 {
 h3 {
   margin-top: 0px;
   margin-left: 5px;
+  margin: 0px 5px 5px 0px;
+  font-style: italic;
+}
+
+p {
+  padding-left: 20px;
+  padding-right: 0px;
+  margin-top: 0px;
 }
 
 * {
