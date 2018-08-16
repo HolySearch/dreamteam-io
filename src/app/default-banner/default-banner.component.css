@@ -1,6 +1,7 @@
 div {
   height: 150px;
   background-color: darkblue;
+  margin-top: 0px;
 }
 
 h1 {
@@ -9,6 +10,7 @@ h1 {
   height: 10px;
   text-align: center;
   padding-top: 75px;
+  margin: 0px;
   
 
 }
